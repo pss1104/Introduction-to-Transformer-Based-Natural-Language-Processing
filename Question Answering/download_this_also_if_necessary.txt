@@ -1,0 +1,7 @@
+https://drive.google.com/drive/folders/1xh8z_lS8wiaJEuy6DDw3bbp_js5Fbk-0?usp=sharing
+
+folder name: work_dir
+
+has 2 nemo files that are large and are not being uploaded to github
+
+may be installed if you run the ipynb files directly, will have to check
