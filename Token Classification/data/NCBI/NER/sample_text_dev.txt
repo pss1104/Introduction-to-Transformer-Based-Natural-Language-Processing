@@ -1,0 +1,100 @@
+BRCA1 is secreted and exhibits properties of a granin . 
+Germline mutations in BRCA1 are responsible for most cases of inherited breast and ovarian cancer . 
+However , the function of the BRCA1 protein has remained elusive . 
+We now show that BRCA1 encodes a 190 - kD protein with sequence homology and biochemical analogy to the granin protein family . 
+Interestingly , BRCA2 also includes a motif similar to the granin consensus at the C terminus of the protein . 
+Both BRCA1 and the granins localize to secretory vesicles , are secreted by a regulated pathway , are post - translationally glycosylated and are responsive to hormones . 
+As a regulated secretory protein , BRCA1 appears to function by a mechanism not previously described for tumour suppressor gene products . . 
+Ovarian cancer risk in BRCA1 carriers is modified by the HRAS1 variable number of tandem repeat ( VNTR ) locus . 
+Women who carry a mutation in the BRCA1 gene ( on chromosome 17q21 ) , have an 80 % risk of breast cancer and a 40 % risk of ovarian cancer by the age of 70 ( ref . 1 ) . 
+The variable penetrance of BRCA1 suggests that other genetic and non - genetic factors play a role in tumourigenesis in these individuals . 
+The HRAS1 variable number of tandem repeats ( VNTR ) polymorphism , located 1 kilobase ( kb ) downstream of the HRAS1 proto - oncogene ( chromosome 11p15 . 5 ) is one possible genetic modifier of cancer penetrance . 
+Individuals who have rare alleles of the VNTR have an increased risk of certain types of cancers , including breast cancer ( 2 - 4 ) . 
+To investigate whether the presence of rare HRAS1 alleles increases susceptibility to hereditary breast and ovarian cancer , we have typed a panel of 307 female BRCA1 carriers at this locus using a PCR - based technique . 
+The risk for ovarian cancer was 2 . 
+11 times greater for BRCA1 carriers harbouring one or two rare HRAS1 alleles , compared to carriers with only common alleles ( P = 0 . 015 ) . 
+The magnitude of the relative risk associated with a rare HRAS1 allele was not altered by adjusting for the other known risk factors for hereditary ovarian cancer ( 5 ) . 
+Susceptibility to breast cancer did not appear to be affected by the presence of rare HRAS1 alleles . 
+This study is the first to show the effect of a modifying gene on the penetrance of an inherited cancer syndrome 
+A novel homeodomain - encoding gene is associated with a large CpG island interrupted by the myotonic dystrophy unstable ( CTG ) n repeat . 
+Myotonic dystrophy ( DM ) is associated with a ( CTG ) n trinucleotide repeat expansion in the 3 - untranslated region of a protein kinase - encoding gene , DMPK , which maps to chromosome 19q13 . 
+3 . 
+Characterisation of the expression of this gene in patient tissues has thus far generated conflicting data on alterations in the steady state levels of DMPK mRNA , and on the final DMPK protein levels in the presence of the expansion . 
+The DM region of chromosome 19 is gene rich , and it is possible that the repeat expansion may lead to dysfunction of a number of transcription units in the vicinity , perhaps as a consequence of chromatin disruption . 
+We have searched for genes associated with a CpG island at the 3 end of DMPK . 
+Sequencing of this region shows that the island extends over 3 . 
+5 kb and is interrupted by the ( CTG ) n repeat . 
+Comparison of genomic sequences downstream ( centromeric ) of the repeat in human and mouse identified regions of significant homology . 
+These correspond to exons of a gene predicted to encode a homeodomain protein . 
+RT - PCR analysis shows that this gene , which we have called DM locus - associated homeodomain protein ( DMAHP ) , is expressed in a number of human tissues , including skeletal muscle , heart and brain . 
+Germline mutations in the RB1 gene in patients with hereditary retinoblastoma . 
+We have analyzed the 27 exons and the promoter region of the RB1 gene in familial or sporadic bilateral retinoblastoma by using single - strand conformation polymorphism analysis . 
+For improvement over previous studies , a new set of primers has been designed , which allow for amplification of the coding and splicing sequences only . 
+The positioning of the polymerase chain reaction ( PCR ) primers was such that the resulting PCR products were of different sizes , which enabled us to analyze two different exons simultaneously and still distinguish between the banding profiles for both ( biplex analysis ) . 
+By using this approach , we were able to identify mutation in 22 new patients , but the overall efficiency of the procedure when we used a single - pass regimen was only 48 % . 
+The mutations were small insertions and deletions and point mutations in roughly equal proportions . . 
+Type II human complement C2 deficiency . 
+Allele - specific amino acid substitutions ( Ser189 - - > Phe ; Gly444 - - > Arg ) cause impaired C2 secretion . 
+Type II complement protein C2 deficiency is characterized by a selective block in C2 secretion . 
+The Type II C2 null allele ( C2Q0 ) is linked to two major histocompatibility haplotypes ( MHC ) that differ from the MHC of the more common Type I C2 deficiency . 
+To determine the molecular basis of Type II deficiency the two Type II C2Q0 genes were isolated and transfected separately into L - cells . 
+Subsequent molecular biology , biosynthetic , and immunofluorescence studies demonstrated that C2 secretion is impaired in Type II C2 deficiency because of different missense mutations at highly conserved residues in each of the C2Q0 alleles . 
+One is in exon 5 ( nucleotide C566 - - > T ; Ser189 - - > Phe ) of the C2Q0 gene linked to the MHC haplotype A11 , B35 , DRw1 , BFS , C4A0B1 . 
+The other is in exon 11 ( G1930 - - > A ; Gly444 - - > Arg ) of the C2Q0 gene linked to the MHC haplotype A2 , B5 , DRw4 , BFS , C4A3B1 . 
+Each mutant C2 gene product is retained early in the secretory pathway . 
+These mutants provide models for elucidating the C2 secretory pathway . . 
+Defective dimerization of von Willebrand factor subunits due to a Cys - > Arg mutation in type IID von Willebrand disease . 
+The same heterozygous T - > C transition at nt 8567 of the von Willebrand factor ( vWF ) transcript was found in two unrelated patients with type IID von Willebrand disease , with no other apparent abnormality . 
+In one family , both alleles were normal in the parents and one sister ; thus , the mutation originated de novo in the proposita . 
+The second patient also had asymptomatic parents who , however , were not available for study . 
+The structural consequences of the identified mutation , resulting in the CyS2010 - > Arg substitution , were evaluated by expression of the vWF carboxyl - terminal domain containing residues 1366 - 2050 . 
+Insect cells infected with recombinant baculovirus expressing normal vWF sequence secreted a disulfide linked dimeric molecule with an apparent molecular mass of 150 kDa before reduction , yielding a single band of 80 kDa after disulfide bond reduction . 
+In contrast , cells expressing the mutant fragment secreted a monomeric molecule of apparent molecular mass of 80 kDa , which remained unchanged after reduction . 
+We conclude that CyS2010 is essential for normal dimerization of vWF subunits through disulfide bonding of carboxyl - terminal domains and that a heterozygous mutation in the corresponding codon is responsible for defective multimer formation in type IID von Willebrand disease . . 
+Wiskott - Aldrich syndrome protein , a novel effector for the GTPase CDC42Hs , is implicated in actin polymerization . 
+The Rho family of GTPases control diverse biological processes , including cell morphology and mitogenesis . 
+We have identified WASP , the protein that is defective in Wiskott - Aldrich syndrome ( WAS ) , as a novel effector for CDC42Hs , but not for the other Rho family members , Rac and Rho . 
+This interaction is dependent on the presence of the G protein - binding domain . 
+Cellular expression of epitope - tagged WASP produces clusters of WASP that are highly enriched in polymerized actin . 
+This clustering is not observed with a C - terminally deleted WASP and is inhibited by coexpression with dominant negative CDC42Hs - N17 , but not with dominant negative forms of Rac or Rho . 
+Thus , WASP provides a novel link between CDC42Hs and the actin cytoskeleton , which suggests a molecular mechanism for many of the cellular abnormalities in WAS . 
+The WASP sequence contains two novel domains that are homologous to other proteins involved in action organization . . 
+X - linked adrenoleukodystrophy is a frequent cause of idiopathic Addison ' s disease in young adult male patients . 
+X - Linked adrenoleukodystrophy ( ALD ) is a genetic disease associated with demyelination of the central nervous system , adrenal insufficiency , and accumulation of very long chain fatty acids in tissue and body fluids . 
+ALD is due to mutation of a gene located in Xq28 that encodes a peroxisomal transporter protein of unknown function . 
+The most common phenotype of ALD is the cerebral form ( 45 % ) that develops in boys between 5 - 12 yr . 
+Adrenomyeloneuropathy ( AMN ) involves the spinal cord and peripheral nerves in young adults ( 35 % ) . 
+Adrenal insufficiency ( Addisons disease ) is frequently associated with AMN or cerebral ALD and may remain the only clinical expression of ALD ( 8 % of cases ) . 
+The prevalence of ALD among adults with Addisons disease remains unknown . 
+To evaluate this prevalence , we performed biochemical analysis of very long chain fatty acids in 14 male patients ( age ranging from 12 - 45 yr at diagnosis ) previously diagnosed as having primary idiopathic adrenocortical insufficiency . 
+In 5 of 14 patients ( 35 % ) , elevated plasma concentrations of very long chain fatty acids were detected . 
+None of these patients had adrenocortical antibodies . 
+By electrophysiological tests and magnetic resonance imaging it was determined that two patients had cerebral ALD , one had adrenomyeloneuropathy with cerebral involvement , and two had preclinical AMN . 
+Our data support the hypothesis that ALD is a frequent cause of idiopathic Addisons disease in children and adults . . 
+Tumor suppression and apoptosis of human prostate carcinoma mediated by a genetic locus within human chromosome 10pter - q11 . 
+Prostate cancer is the second leading cause of male cancer deaths in the United States . 
+Yet , despite a large international effort , little is known about the molecular mechanisms that underlie this devastating disease . 
+Prostate secretory epithelial cells and androgen - dependent prostate carcinomas undergo apoptosis in response to androgen deprivation and , furthermore , most prostate carcinomas become androgen independent and refractory to further therapeutic manipulations during disease progression . 
+Definition of the genetic events that trigger apoptosis in the prostate could provide important insights into critical pathways in normal development as well as elucidate the perturbations of those key pathways in neoplastic transformation . 
+We report the functional definition of a novel genetic locus within human chromosome 10pter - q11 that mediates both in vivo tumor suppression and in vitro apoptosis of prostatic adenocarcinoma cells . 
+A defined fragment of human chromosome 10 was transferred via microcell fusion into a prostate adenocarcinoma cell line . 
+Microcell hybrids containing only the region 10pter - q11 were suppressed for tumorigenicity following injection of microcell hybrids into nude mice . 
+Furthermore , the complemented hybrids undergo programmed cell death in vitro via a mechanism that does not require nuclear localization of p53 . 
+These data functionally define a novel genetic locus , designated PAC1 , for prostate adenocarcinoma 1 , involved in tumor suppression of human prostate carcinoma and furthermore strongly suggest that the cell death pathway can be functionally restored in prostatic adenocarcinoma . . 
+Low incidence of BRCA2 mutations in breast carcinoma and other cancers . 
+Inherited mutant alleles of familial tumour suppressor genes predispose individuals to particular types of cancer . 
+In addition to an involvement in inherited susceptibility to cancer , these tumour suppressor genes are targets for somatic mutations in sporadic cancers of the same type found in the familial forms . 
+An exception is BRCA1 , which contributes to a significant fraction of familial breast and ovarian cancer , but undergoes mutation at very low rates in sporadic breast and ovarian cancers . 
+This finding suggests that other genes may be the principal targets for somatic mutation in breast carcinoma . 
+A second , recently identified familial breast cancer gene , BRCA2 ( refs 5 - 8 ) , accounts for a proportion of breast cancer roughly equal to BRCA1 . 
+Like BRCA1 , BRCA2 behaves as a dominantly inherited tumour suppressor gene . 
+Individuals who inherit one mutant allele are at increased risk for breast cancer , and the tumours they develop lose the wild - type allele by heterozygous deletion . 
+The BRCA2 coding sequence is huge , composed of 26 exons that span 10 , 443 bp . 
+Here we investigate the rate of BRCA2 mutation in sporadic breast cancers and in a set of cell lines that represent twelve other tumour types . 
+Surprisingly , mutations in BRCA2 are infrequent in cancers including breast carcinoma . 
+However , a probable germline mutation in a pancreatic tumour cell line suggests a role for BRCA2 in susceptibility to pancreatic cancer . . 
+Founding BRCA1 mutations in hereditary breast and ovarian cancer in southern Sweden . 
+Nine different germ - line mutations in the BRCA1 breast and ovarian cancer susceptibility gene were identified in 15 of 47 kindreds from southern Sweden , by use of SSCP and heteroduplex analysis of all exons and flanking intron region and by a protein - truncation test for exon 11 , followed by direct sequencing . 
+All but one of the mutations are predicted to give rise to premature translation termination and include seven frameshift insertions or deletions , a nonsense mutation , and a splice acceptor site mutation . 
+The remaining mutation is a missense mutation ( Cys61Gly ) in the zinc - binding motif . 
+Four novel Swedish founding mutations were identified the nucleotide 2595 deletion A was found in five families , the C 1806 T nonsense mutation in three families , the 3166 insertion TGAGA in three families , and the nucleotide 1201 deletion 11 in two families . 
